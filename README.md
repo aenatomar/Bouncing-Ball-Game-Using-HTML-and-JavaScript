@@ -100,5 +100,7 @@ This project is open source and available under the MIT License.
 If you like this project, consider giving the repository a ⭐ on GitHub!
 
 Made with ❤️ using HTML & CSS
+# Live Demo of website
+url:https://aenatomar.github.io/Bouncing-Ball-Game-Using-HTML-and-JavaScript/
 
 
